@@ -1,5 +1,5 @@
 # Movement-aptos-mac-v1.0
-本腳本為Mac版本，Win版開發中，預計這週推出  
+本腳本為Mac版本，VPS版本已推出，隔離跑無風險  
 需要閱覽權限請聯絡[作者](https://x.com/jason2290_eth)
 1. 金鑰填入keys.csv中  
 第一欄填入帳號名 格式不限  
